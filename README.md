@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: Message here, that's about it!
 
-- ⚡ Fun fact: I'm entirely self-taught, which means my code probably sucks! But hey, I'm having fun and no one's paying me to do this, so can't get too made at me ;)
+- ⚡ Fun fact: I'm entirely self-taught, which means my code probably sucks! But hey, I'm having fun and no one's paying me to do this, so can't get too mad at me ;)
 
 <!---
 DoctrJones/DoctrJones is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
